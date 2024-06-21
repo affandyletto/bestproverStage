@@ -1,0 +1,6 @@
+# Mengatur semua file teks agar menggunakan akhir baris LF
+* text=auto
+
+# Secara spesifik mengatur file TypeScript untuk menggunakan akhir baris LF
+*.ts text eol=lf
+*.tsx text eol=lf

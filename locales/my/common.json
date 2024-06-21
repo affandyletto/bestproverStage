@@ -1,0 +1,16 @@
+{
+    "Navbar": {
+        "search_placeholder": "Search for company, link, or category ...",
+        "search_placeholder_mobile": "Search ...",
+        "link_categories": "Categories",
+        "link_blog": "Blog",
+        "btn_login": "Login",
+        "btn_signup": "For Business"
+    },
+    "Footer": {
+        "heading_subscribe": "Subscribe our newsletter",
+        "desc_subscribe": "Sign up for the trustprover newsletter now. You can unsubscribe from the newsletter free of charge at any time.",
+        "placeholder_subscribe": "Enter your email address",
+        "button_subscribe": "Subscribe"
+    }
+}

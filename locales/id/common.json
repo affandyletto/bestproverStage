@@ -1,0 +1,16 @@
+{
+    "Navbar": {
+        "search_placeholder": "Pencarian untuk perusahaan, tautan, atau kategori ...",
+        "search_placeholder_mobile": "Pencarian ...",
+        "link_categories": "Kategori",
+        "link_blog": "Blog",
+        "btn_login": "Masuk",
+        "btn_signup": "Untuk Bisnis"
+    },
+    "Footer": {
+        "heading_subscribe": "Berlangganan buletin kami",
+        "desc_subscribe": "Mendaftarlah untuk buletin pemberi kepercayaan sekarang. Anda dapat berhenti berlangganan buletin secara gratis kapan saja.",
+        "placeholder_subscribe": "Masukkan alamat email Anda",
+        "button_subscribe": "Berlangganan"
+    }
+}
